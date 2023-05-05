@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ortalamaHesap {
+public class OrtalamaHesap {
     public static void main(String[] args) {
 
         int toplam, ortalama;

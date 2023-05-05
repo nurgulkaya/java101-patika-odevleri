@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dikUcgeninHipotenusu {
+public class DikUcgeninHipotenusu {
     public static void main(String[] args) {
 
         int a, b;

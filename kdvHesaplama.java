@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kdvHesaplama{
+public class KdvHesaplama{
     public static void main(String[] args) {
 
         double kdv = 0;
