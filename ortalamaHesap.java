@@ -25,7 +25,7 @@ public class ortalamaHesap {
         System.out.print("Tarih notunuz : ");
         Tarih = not.nextInt();
 
-        toplam = (Mat+Fizik+Kimya+Turkce+Muzik+Tarih );
+        toplam = (Mat+Fizik+Kimya+Turkce+Muzik+Tarih);
         sonuc = toplam/6.0;
 
         System.out.println("Ortalamanız :"+ sonuc);
