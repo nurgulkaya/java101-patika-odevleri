@@ -13,5 +13,6 @@ public class BasamakSayilariToplama {
             a = a/10;
         }
         System.out.println("Sonuç: " + total);
+        inp.close();
     }
 }

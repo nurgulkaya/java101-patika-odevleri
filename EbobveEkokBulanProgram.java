@@ -7,13 +7,13 @@ public class EbobveEkokBulanProgram {
         Scanner inp = new Scanner(System.in);
         System.out.print("İlk sayıyı giriniz: ");
         a = inp.nextInt();
-        System.out.print("İkinci giriniz: ");
+        System.out.print("İkinci sayıyı giriniz: ");
         b = inp.nextInt();
 
 
         int i = 1;
         while(i<=a && i<=b){
-            if  (num1 % i == 0 && num2 % i == 0) {
+            if  (a%i==0 && b%i==0) {
                 ebob = i;
             }
             i++;
