@@ -12,10 +12,11 @@ public class PalindromSayiBulma{
                 reverseNumber = (reverseNumber * 10) + lastNumber;
                 temp /= 10;
             }
-            if (number == reverseNumber)
+            if (number == reverseNumber){
                 return true;
-            else
+            }else{
                 return false;
+            }
         }
     
         public static void main(String[] args) {
