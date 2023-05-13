@@ -12,3 +12,5 @@
 - Ters Üçgen Yapımı 
 - 1-100 Arasındaki Asal Sayıları Bulan Program 
 - Fibonacci Serisi 
+- Recursive Metotlar ile Üslü Sayı Hesaplama
+
