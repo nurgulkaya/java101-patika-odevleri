@@ -2,7 +2,7 @@
 
 ## Patika Java101 Ödevleri
 
-1. Vücut Kitle İndeksi Hesaplayan Program 
+- Vücut Kitle İndeksi Hesaplayan Program 
 2. Manav Kasa Programı 
 3. Uçak Bileti Fiyatı Hesaplama 
 4. Çin Zodyağı Hesaplama 
