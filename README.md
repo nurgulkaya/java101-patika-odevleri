@@ -13,4 +13,4 @@
 - 1-100 Arasındaki Asal Sayıları Bulan Program 
 - Fibonacci Serisi 
 - Recursive Metotlar ile Üslü Sayı Hesaplama
-
+- Recursive Metotlar ile Asal Sayı Bulan Program
